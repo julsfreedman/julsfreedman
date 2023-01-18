@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia Freedman
 - 👀 I’m interested in coding, juggle sticks, and mushroom foraging
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🌱 My programming skills include HTML, CSS, Javascript, and full MERN stack
 -  Front-End proficient certification from Triplybyte: https://triplebyte.com/tb/julia-f-08swo5k/certificate
 
 <!---
